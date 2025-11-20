@@ -1,0 +1,30 @@
+leadership:
+  - name: Pavel Sinitcyn
+    title: Lab Head
+    focus: Systems biology, proteomics, AI-driven mass spectrometry workflows
+    email: pavel@sinitcynlab.org
+  - name: Majid Mohammadi
+    title: Senior Scientist
+    focus: Machine learning for peptide identification, scalable cloud pipelines
+    email: majid@sinitcynlab.org
+  - name: Grigory Raznikov
+    title: Senior Scientist
+    focus: High-throughput quantitative proteomics, computational infrastructure
+    email: grigory@sinitcynlab.org
+team:
+  - name: Alice Becker
+    title: Postdoctoral Fellow
+    focus: Single-cell proteomics and deep generative models
+  - name: Diego Morales
+    title: PhD Researcher
+    focus: Ion mobility modeling and open-source toolchains
+  - name: Lina Kaur
+    title: MSc Student
+    focus: Explainable AI for peptide-spectrum matching
+  - name: Chen Wu
+    title: Research Software Engineer
+    focus: Platform reliability and data visualization
+alumni:
+  - name: Sara Lindholm
+    title: Scientist at ProteoAI
+    focus: Large-scale spectral libraries

@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="container">
+    <h1>Computational Mass Spectrometry Meets Intelligent Automation</h1>
+    <p class="lead">The Sinitcyn Lab fuses algorithm design, large-scale data analysis, and frontier proteomics to decode molecular systems.</p>
+    <a class="cta" href="{{ '/publications/' | relative_url }}">Explore our work</a>
+  </div>
+</section>
+
+<section class="highlights">
+  <div class="container">
+    <div class="highlight">
+      <h2>What We Do</h2>
+      <p>We engineer AI-powered pipelines that make data-independent acquisition reproducible, scalable, and interpretable. Our team delivers open-source software, benchmark datasets, and collaborative innovation across academia and industry.</p>
+    </div>
+    <div class="highlight">
+      <h2>Core Expertise</h2>
+      <ul>
+        <li>Machine learning for peptide-spectrum interpretation</li>
+        <li>High-throughput, quantitative DIA workflows</li>
+        <li>Cloud-native mass spectrometry infrastructure</li>
+        <li>Explainable models for biological discovery</li>
+      </ul>
+    </div>
+    <div class="highlight">
+      <h2>Collaborate With Us</h2>
+      <p>We partner with clinicians, instrument vendors, and computational groups. Interested in pushing the boundaries of proteomics? <a href="{{ '/contact/' | relative_url }}">Get in touch</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="latest-news">
+  <div class="container">
+    <h2>Latest News</h2>
+    <div class="news-cards">
+      {% assign latest_posts = site.posts | slice: 0, 3 %}
+      {% for post in latest_posts %}
+      <article class="news-card">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="meta">{{ post.date | date: '%B %d, %Y' }} • {{ post.author }}</p>
+        <p>{{ post.excerpt }}</p>
+      </article>
+      {% endfor %}
+      {% if latest_posts == empty %}
+      <p>No announcements yet. Check back soon.</p>
+      {% endif %}
+    </div>
+    <p class="more"><a href="{{ '/news/' | relative_url }}">See all news</a></p>
+  </div>
+</section>
+
+<section class="focus">
+  <div class="container">
+    <h2>Signature Platforms</h2>
+    <div class="focus-grid">
+      <div class="focus-card">
+        <h3>DeepDialytics</h3>
+        <p>Transformer-based calibration for DIA proteomics with adaptive quality control.</p>
+      </div>
+      <div class="focus-card">
+        <h3>SpectraGraph</h3>
+        <p>Graph neural networks that unify spectral evidence and protein context.</p>
+      </div>
+      <div class="focus-card">
+        <h3>FluxFoundry</h3>
+        <p>Cloud-native proteomic pipelines with automated reporting and dashboards.</p>
+      </div>
+    </div>
+  </div>
+</section>

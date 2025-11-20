@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav>
+          <ul class="nav-list">
+          {% for item in site.data.navigation %}
+            <li class="nav-item{% if page.url == item.url %} active{% endif %}"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+      </div>
+    </footer>
+
+    <script>
+      // Toggle navigation state when scrolling.
+      document.addEventListener('scroll', function () {
+        const header = document.querySelector('.site-header');
+        if (!header) return;
+        header.classList.toggle('scrolled', window.scrollY > 0);
+      });
+    </script>
+  </body>
+</html>

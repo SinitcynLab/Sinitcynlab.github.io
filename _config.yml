@@ -1,0 +1,16 @@
+title: Sinitcyn Lab
+description: Computational mass spectrometry and AI research group
+url: https://sinitcynlab.github.io
+baseurl: ""
+permalink: /:categories/:title/
+collections:
+  posts:
+    output: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+markdown: kramdown
+theme: null
+future: false
+include:
+  - _pages
