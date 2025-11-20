@@ -1,13 +1,13 @@
-- title: DeepDialytics: Self-Calibrating Transformers for Data-Independent Acquisition
+- title: "DeepDialytics: Self-Calibrating Transformers for Data-Independent Acquisition"
   authors: Majid Mohammadi, Pavel Sinitcyn, Grigory Raznikov, et al.
   venue: ISMB 2025
   link: https://doi.org/10.1234/deepdialytics
   highlight: true
-- title: SpectraGraph: Graph Neural Networks for Proteoform Discovery
+- title: "SpectraGraph: Graph Neural Networks for Proteoform Discovery"
   authors: Grigory Raznikov, Alice Becker, Pavel Sinitcyn
   venue: Nature Methods 2024
   link: https://doi.org/10.1234/spectragraph
-- title: Active Learning for Peptide Identification at Scale
+- title: "Active Learning for Peptide Identification at Scale"
   authors: Majid Mohammadi, Chen Wu, Pavel Sinitcyn
   venue: Bioinformatics 2023
   link: https://doi.org/10.1234/active-peptides
