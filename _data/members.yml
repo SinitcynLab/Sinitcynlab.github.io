@@ -1,30 +1,61 @@
 leadership:
-  - name: Pavel Sinitcyn
-    title: Lab Head
-    focus: Systems biology, proteomics, AI-driven mass spectrometry workflows
-    email: pavel@sinitcynlab.org
   - name: Majid Mohammadi
-    title: Senior Scientist
-    focus: Machine learning for peptide identification, scalable cloud pipelines
-    email: majid@sinitcynlab.org
-  - name: Grigory Raznikov
-    title: Senior Scientist
-    focus: High-throughput quantitative proteomics, computational infrastructure
-    email: grigory@sinitcynlab.org
+    title: Senior Scientist, Postdoctoral Researcher
+    focus: machine learning, shapley values, explainability in AI
+    email: m.mohammadi1@uu.nl
+    orcid: https://orcid.org/0000-0002-7131-8724
+    gscholar: https://scholar.google.com/citations?user=7oVmQIYAAAAJ
+    uu: https://www.uu.nl/staff/MMohammadi
+    photo: majid_mohammadi.low.jpg
+    linkedin: https://www.linkedin.com/in/majid-mohammadi-aa17323a/
+  - name: Grigory Reznikov
+    title: PhD Student
+    focus: high performance computing, graph algorithms, docking
+    email: g.reznikov@uu.nl
+    orcid: https://orcid.org/0000-0003-2959-2831
+    cphof: https://cphof.org/profile/topcoder:grikukan
+    uu: https://www.uu.nl/staff/GReznikov
+    linkedin: https://www.linkedin.com/in/grikukan/
+    photo: grigory_reznikov.low.jpg
+  - name: Pavel Sinitcyn
+    title: Principal Investigator, Assistant Professor
+    focus: shotgun proteomics, computational proteomics, phosphoproteomics
+    email: p.sinitcyn@uu.nl
+    orcid: https://orcid.org/0000-0002-2653-1702
+    gscholar: https://scholar.google.com/citations?user=Qqu7Z4QAAAAJ
+    uu: https://www.uu.nl/staff/PSinitcyn
+    linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
+    photo: pavel_sinitcyn.low.jpg
 team:
-  - name: Alice Becker
-    title: Postdoctoral Fellow
-    focus: Single-cell proteomics and deep generative models
-  - name: Diego Morales
-    title: PhD Researcher
-    focus: Ion mobility modeling and open-source toolchains
-  - name: Lina Kaur
-    title: MSc Student
-    focus: Explainable AI for peptide-spectrum matching
-  - name: Chen Wu
-    title: Research Software Engineer
-    focus: Platform reliability and data visualization
+  - name: Lizaveta Yurkianets
+    title: MSc, Drug Innovation, Utrecht University
+    focus: Building antibody library for middle-down MS proteomics
+    time: Mar 2025 -
+    photo: lizaveta_yurkianets.low.jpg
+  - name: Fabrice Kusters
+    title: BSc, Computer Science and Mathematics, Technical University Eindhoven
+    focus: Generative AI for decoy generation in mass spectrometry-based proteomics
+    time: Oct 2025 -
+    photo: fabrice_kusters.low.jpg
+  - name: Alexander Kaplich
+    title: MSc, Artificial Intelligence, Utrecht University
+    focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
+    time: Jan 2026 -
+  - name: Nikolás Hernandez Montero
+    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    focus: Mining shotgun proteomics data for antibody gold
+    time: Feb 2026 -
 alumni:
-  - name: Sara Lindholm
-    title: Scientist at ProteoAI
-    focus: Large-scale spectral libraries
+  - name: Stan Reinders
+    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
+    time: Jul 2024 - Dec 2025
+    photo: stan_reinders.low.jpg
+  - name: Sara Albarran Berlanga (helloR&D)
+    title: MSc, Artificial Intelligence, Utrecht University
+    focus: Organoid viability prediction on bright field images
+    time: Feb 2025 - Jun 2025
+  - name: Markel Benito Sendin (Genmab)
+    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    focus: Enhancing PPI explainability with geometric deep learning
+    time: Feb 2025 - Jul 2025
