@@ -4,10 +4,11 @@ excerpt: Grigory Reznikov joined as a PhD student.
 author: Pavel Sinitcyn
 ---
 
-
+{% assign member = site.data.members.leadership | where: "name", "Grigory Reznikov" | first %}
+{% if member.gdpr_consent %}
 ![Grigory Reznikov magshot]({{ '/assets/images/photo/grigory_reznikov.low.jpg' | relative_url }})
 {: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
-
+{% endif %}
 
 We are happy to welcome Grigory Reznikov to our team. His research focuses on developing distributed storage and processing systems, including work on [YTsaurus](https://github.com/ytsaurus).
 
