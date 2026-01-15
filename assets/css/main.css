@@ -402,3 +402,49 @@ img {
     padding: 1.5rem;
   }
 }
+
+/* Foldable Alumni Section */
+.alumni-details {
+  margin-top: 3rem;
+}
+
+.alumni-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+  /* Hide default arrow */
+  padding: 0.5rem 0;
+  border-bottom: 2px solid var(--border);
+  margin-bottom: 2rem;
+}
+
+.alumni-summary::-webkit-details-marker {
+  display: none;
+  /* Hide default arrow in Safari */
+}
+
+.alumni-summary h2 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.alumni-arrow {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+}
+
+.alumni-arrow::after {
+  content: '▼';
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.alumni-details[open] .alumni-arrow {
+  transform: rotate(180deg);
+}

@@ -56,7 +56,12 @@ permalink: /members/
 </div>
 {% endfor %}
 
-## Alumni
+<details class="alumni-details">
+<summary class="alumni-summary">
+  <h2>Alumni</h2>
+  <span class="alumni-arrow"></span>
+</summary>
+<div class="alumni-content" style="margin-top: 1.5rem;">
 {% for person in site.data.members.alumni %}
 <div class="member-card" style="display: flex; gap: 1.5rem; margin-bottom: 2rem; align-items: flex-start;">
   <div class="member-photo" style="flex-shrink: 0;">
@@ -74,3 +79,5 @@ permalink: /members/
   </div>
 </div>
 {% endfor %}
+</div>
+</details>
