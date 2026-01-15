@@ -4,7 +4,10 @@ title: Software
 permalink: /software/
 ---
 
-We are committed to open science and sharing our computational tools with the community. Below is a list of software solutions developed and maintained by our group.
+![Sinitcyn Lab Software Photo]({{ '/assets/images/photo/software.jpg' | relative_url }})
+{: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
+
+In mass spectrometry, even the best experiments produce complex data, so "garbage in, garbage out" is always lurking in the background. So we spend our days sorting signals from noise with a smile.
 
 <div class="software-list" style="margin-top: 2rem;">
 {% for tool in site.data.software %}

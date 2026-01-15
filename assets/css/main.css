@@ -218,7 +218,7 @@ img {
 }
 
 .page-content>p {
-  max-width: 60ch;
+  max-width: 100%;
 }
 
 .page-content>p:has(> img) {
