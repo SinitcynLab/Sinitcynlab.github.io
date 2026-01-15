@@ -3,7 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
-![Sinitcyn Lab News Photo]({{ '/assets/images/photo/news.jpg' | relative_url }}){: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
+![Sinitcyn Lab News Photo]({{ '/assets/images/photo/news.jpg' | relative_url }})
+{: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
 
 {% for post in site.posts %}
 ### [{{ post.title }}]({{ post.url | relative_url }})
