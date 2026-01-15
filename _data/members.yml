@@ -1,6 +1,6 @@
 leadership:
   - name: Pavel Sinitcyn
-    title: Principal Investigator, Assistant Professor
+    title: Principal Investigator, Assistant Professor, PhD
     focus: shotgun proteomics, computational proteomics, phosphoproteomics
     email: p.sinitcyn@uu.nl
     orcid: https://orcid.org/0000-0002-2653-1702
@@ -10,7 +10,7 @@ leadership:
     photo: pavel_sinitcyn.low.jpg
     gdpr_consent: true
   - name: Majid Mohammadi
-    title: Senior Scientist, Postdoctoral Researcher
+    title: Senior Scientist, Postdoctoral Researcher, PhD
     focus: machine learning, shapley values, explainability in AI
     email: m.mohammadi1@uu.nl
     orcid: https://orcid.org/0000-0002-7131-8724
@@ -20,7 +20,7 @@ leadership:
     linkedin: https://www.linkedin.com/in/majid-mohammadi-aa17323a/
     gdpr_consent: false
   - name: Grigory Reznikov
-    title: PhD Student
+    title: PhD Student, MSc in Theoretical Computer Science
     focus: high performance computing, graph algorithms, docking
     email: g.reznikov@uu.nl
     orcid: https://orcid.org/0000-0003-2959-2831
@@ -28,49 +28,49 @@ leadership:
     uu: https://www.uu.nl/staff/GReznikov
     linkedin: https://www.linkedin.com/in/grikukan/
     photo: grigory_reznikov.low.jpg
-    gdpr_consent: false
+    gdpr_consent: true
 team:
   - name: Lizaveta Yurkianets
-    title: MSc, Drug Innovation, Utrecht University
+    title: MSc Student, Drug Innovation, Utrecht University
     focus: Building antibody library for middle-down MS proteomics
     time: Mar 2025 -
     photo: lizaveta_yurkianets.low.jpg
-    gdpr_consent: false
+    gdpr_consent: true
   - name: Fabrice Kusters
-    title: BSc, Computer Science and Mathematics, Technical University Eindhoven
+    title: BSc Student, Computer Science and Mathematics, Technical University Eindhoven
     focus: Generative AI for decoy generation in mass spectrometry-based proteomics
     time: Oct 2025 -
     photo: fabrice_kusters.low.jpg
-    gdpr_consent: false
+    gdpr_consent: true
   - name: Alexander Kaplich
-    title: MSc, Artificial Intelligence, Utrecht University
+    title: MSc Student, Artificial Intelligence, Utrecht University
     focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
     time: Jan 2026 -
     gdpr_consent: false
   - name: Nikolás Hernandez Montero
-    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
     time: Feb 2026 -
     gdpr_consent: false
   - name: Sofiia Shishkina
-    title: Lab Intern
+    title: Lab Intern, MSc in Computational Biology and Bioinformatics
     focus: Currating various sources of TCR receptor and antibody data.
     time: Nov 2025 -
     gdpr_consent: false
 alumni:
   - name: Stan Reinders
-    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
     focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
     time: Jul 2024 - Dec 2025
     photo: stan_reinders.low.jpg
     gdpr_consent: false
   - name: Sara Albarran Berlanga (helloR&D)
-    title: MSc, Artificial Intelligence, Utrecht University
+    title: MSc Student, Artificial Intelligence, Utrecht University
     focus: Organoid viability prediction on bright field images
     time: Feb 2025 - Jun 2025
     gdpr_consent: false
   - name: Markel Benito Sendin (Genmab)
-    title: MSc, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
     focus: Enhancing PPI explainability with geometric deep learning
     time: Feb 2025 - Jul 2025
     gdpr_consent: false
