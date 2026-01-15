@@ -52,6 +52,11 @@ team:
     focus: Mining shotgun proteomics data for antibody gold
     time: Feb 2026 -
     gdpr_consent: false
+  - name: Sofiia Shishkina
+    title: Lab Intern
+    focus: Currating various sources of TCR receptor and antibody data.
+    time: Nov 2025 -
+    gdpr_consent: false
 alumni:
   - name: Stan Reinders
     title: MSc, Bioinformatics and Biocomplexity, Utrecht University
