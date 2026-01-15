@@ -1,3 +1,7 @@
+html {
+  scrollbar-gutter: stable;
+}
+
 :root {
   color-scheme: light;
   --brand: #173f5f;
@@ -19,6 +23,10 @@ body {
   color: var(--text);
   background: var(--bg);
   line-height: 1.6;
+  scrollbar-gutter: stable;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 img {
@@ -83,6 +91,7 @@ img {
 
 .site-main {
   display: block;
+  flex: 1;
 }
 
 .hero {
