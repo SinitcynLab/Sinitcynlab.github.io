@@ -8,6 +8,7 @@ leadership:
     uu: https://www.uu.nl/staff/PSinitcyn
     linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
     photo: pavel_sinitcyn.low.jpg
+    gdpr_consent: true
   - name: Majid Mohammadi
     title: Senior Scientist, Postdoctoral Researcher
     focus: machine learning, shapley values, explainability in AI
@@ -17,6 +18,7 @@ leadership:
     uu: https://www.uu.nl/staff/MMohammadi
     photo: majid_mohammadi.low.jpg
     linkedin: https://www.linkedin.com/in/majid-mohammadi-aa17323a/
+    gdpr_consent: false
   - name: Grigory Reznikov
     title: PhD Student
     focus: high performance computing, graph algorithms, docking
@@ -26,36 +28,44 @@ leadership:
     uu: https://www.uu.nl/staff/GReznikov
     linkedin: https://www.linkedin.com/in/grikukan/
     photo: grigory_reznikov.low.jpg
+    gdpr_consent: false
 team:
   - name: Lizaveta Yurkianets
     title: MSc, Drug Innovation, Utrecht University
     focus: Building antibody library for middle-down MS proteomics
     time: Mar 2025 -
     photo: lizaveta_yurkianets.low.jpg
+    gdpr_consent: false
   - name: Fabrice Kusters
     title: BSc, Computer Science and Mathematics, Technical University Eindhoven
     focus: Generative AI for decoy generation in mass spectrometry-based proteomics
     time: Oct 2025 -
     photo: fabrice_kusters.low.jpg
+    gdpr_consent: false
   - name: Alexander Kaplich
     title: MSc, Artificial Intelligence, Utrecht University
     focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
     time: Jan 2026 -
+    gdpr_consent: false
   - name: Nikolás Hernandez Montero
     title: MSc, Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
     time: Feb 2026 -
+    gdpr_consent: false
 alumni:
   - name: Stan Reinders
     title: MSc, Bioinformatics and Biocomplexity, Utrecht University
     focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
     time: Jul 2024 - Dec 2025
     photo: stan_reinders.low.jpg
+    gdpr_consent: false
   - name: Sara Albarran Berlanga (helloR&D)
     title: MSc, Artificial Intelligence, Utrecht University
     focus: Organoid viability prediction on bright field images
     time: Feb 2025 - Jun 2025
+    gdpr_consent: false
   - name: Markel Benito Sendin (Genmab)
     title: MSc, Bioinformatics and Biocomplexity, Utrecht University
     focus: Enhancing PPI explainability with geometric deep learning
     time: Feb 2025 - Jul 2025
+    gdpr_consent: false

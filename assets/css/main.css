@@ -21,8 +21,13 @@ body {
   line-height: 1.6;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .container {
-  width: min(1100px, 92%);
+  width: min(900px, 92%);
   margin: 0 auto;
 }
 
@@ -178,6 +183,10 @@ body {
 
 .page-content>p {
   max-width: 60ch;
+}
+
+.page-content>p:has(> img) {
+  max-width: 100%;
 }
 
 .site-footer {
