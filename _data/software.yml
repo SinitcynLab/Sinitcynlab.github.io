@@ -1,0 +1,7 @@
+- name: Ignovo
+  description: "A Python package for de novo peptide sequencing from mass spectrometry data using combination of deep learning and graph-based methods."
+  github: https://github.com/gritukan/ignovo
+  tags:
+    - de novo sequencing
+    - top down proteomics
+    - antibody discovery
