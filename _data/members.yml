@@ -46,7 +46,8 @@ team:
     title: MSc Student, Artificial Intelligence, Utrecht University
     focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
     time: Jan 2026 -
-    gdpr_consent: false
+    photo: alexander_kaplich.low.jpg
+    gdpr_consent: true
   - name: Nikolás Hernandez Montero
     title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
