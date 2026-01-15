@@ -91,6 +91,26 @@ img {
   padding: 5rem 0 4rem;
 }
 
+.hero-container {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.hero-logo-wrapper {
+  flex-shrink: 0;
+}
+
+.hero-logo {
+  height: 270px;
+  width: auto;
+  display: block;
+}
+
+.hero-content {
+  flex: 1;
+}
+
 .hero .lead {
   max-width: 40rem;
   font-size: 1.125rem;
@@ -208,6 +228,15 @@ img {
 
   .hero {
     padding: 4rem 0 3rem;
+  }
+
+  .hero-container {
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .hero-logo {
+    height: 180px;
   }
 
   .highlights .highlight {
