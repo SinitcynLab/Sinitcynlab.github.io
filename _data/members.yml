@@ -1,4 +1,13 @@
 leadership:
+  - name: Pavel Sinitcyn
+    title: Principal Investigator, Assistant Professor
+    focus: shotgun proteomics, computational proteomics, phosphoproteomics
+    email: p.sinitcyn@uu.nl
+    orcid: https://orcid.org/0000-0002-2653-1702
+    gscholar: https://scholar.google.com/citations?user=Qqu7Z4QAAAAJ
+    uu: https://www.uu.nl/staff/PSinitcyn
+    linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
+    photo: pavel_sinitcyn.low.jpg
   - name: Majid Mohammadi
     title: Senior Scientist, Postdoctoral Researcher
     focus: machine learning, shapley values, explainability in AI
@@ -17,15 +26,6 @@ leadership:
     uu: https://www.uu.nl/staff/GReznikov
     linkedin: https://www.linkedin.com/in/grikukan/
     photo: grigory_reznikov.low.jpg
-  - name: Pavel Sinitcyn
-    title: Principal Investigator, Assistant Professor
-    focus: shotgun proteomics, computational proteomics, phosphoproteomics
-    email: p.sinitcyn@uu.nl
-    orcid: https://orcid.org/0000-0002-2653-1702
-    gscholar: https://scholar.google.com/citations?user=Qqu7Z4QAAAAJ
-    uu: https://www.uu.nl/staff/PSinitcyn
-    linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
-    photo: pavel_sinitcyn.low.jpg
 team:
   - name: Lizaveta Yurkianets
     title: MSc, Drug Innovation, Utrecht University

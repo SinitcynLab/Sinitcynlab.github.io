@@ -1,0 +1,14 @@
+---
+title: Majid Joining the Lab
+excerpt: Majid Mohammadi joined as a Postdoctoral Researcher.
+author: Pavel Sinitcyn
+---
+
+
+![Majid Mohammadi magshot]({{ '/assets/images/photo/majid_mohammadi.low.jpg' | relative_url }})
+{: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
+
+
+We are happy to welcome Majid Mohammadi to our team. His research focuses on interpretable and trustworthy machine learning, including game-theoretic explanations (e.g., Shapley-value methods), uncertainty-aware modelling, and kernel/Gaussian-process approaches.
+
+In our group, Majid will work on multiple applications of modern generative machine-learning methods for mass spectrometry and broader life-science data.

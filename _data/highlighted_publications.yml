@@ -1,0 +1,25 @@
+- title: "Fast and deep phosphoproteome analysis with the Orbitrap Astral mass spectrometer"
+  authors: "N. M. Lancaster, <b>P. Sinitcyn</b>, P. Forny, et al."
+  venue: "Nature Communications 2024"
+  link: "https://doi.org/10.1038/s41467-024-51274-0"
+  points:
+    - "Unlocks deep phosphoproteome coverage (over 30,000 phosphosites) in short gradients."
+    - "Demonstrates high-throughput capability for large-scale signaling studies in mouse tissues."
+    - "Establishes benchmarks for the new Orbitrap Astral technology."
+
+- title: "Global detection of human variants and isoforms by deep proteome sequencing"
+  authors: "<b>P. Sinitcyn</b>, A. L. Richards, et al."
+  venue: "Nature Biotechnology 2023"
+  link: "https://doi.org/10.1038/s41587-023-01714-x"
+  points:
+    - "Directly detects single amino acid variants and alternative isoforms at the protein level."
+    - "Integrates genomic, transcriptomic, and proteomics data for comprehensive proteogenomics."
+
+- title: "MaxDIA enables library-based and library-free data-independent acquisition proteomics"
+  authors: "<b>P. Sinitcyn</b>, H. Hamzeiy, F. Salinas Soto, et al."
+  venue: "Nature Biotechnology 2021"
+  link: "https://doi.org/10.1038/s41587-021-00968-7"
+  points:
+    - "Introduces MaxDIA for robust analysis of Data-Independent Acquisition (DIA) data."
+    - "Enables both spectral library-based and library-free (discovery) workflows."
+    - "Improves identification accuracy and quantification precision in complex samples."

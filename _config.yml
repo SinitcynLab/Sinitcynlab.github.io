@@ -2,7 +2,7 @@ title: Sinitcyn Lab
 description: Computational mass spectrometry and AI research group
 url: https://sinitcynlab.github.io
 baseurl: ""
-permalink: /:categories/:title/
+permalink: /news/:title/
 collections:
   posts:
     output: true
@@ -14,3 +14,10 @@ theme: null
 future: false
 include:
   - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

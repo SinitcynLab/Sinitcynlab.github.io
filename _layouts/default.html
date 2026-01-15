@@ -16,7 +16,15 @@
       <nav>
         <ul class="nav-list">
           {% for item in site.data.navigation %}
-          <li class="nav-item{% if page.url == item.url %} active{% endif %}"><a href="{{ item.url | relative_url }}">{{
+          {% assign is_active = false %}
+          {% if page.url == item.url %}
+          {% assign is_active = true %}
+          {% elsif item.url != '/' and page.url contains item.url %}
+          {% assign is_active = true %}
+          {% elsif page.layout == 'post' and item.url == '/news/' %}
+          {% assign is_active = true %}
+          {% endif %}
+          <li class="nav-item{% if is_active %} active{% endif %}"><a href="{{ item.url | relative_url }}">{{
               item.title }}</a></li>
           {% endfor %}
         </ul>
