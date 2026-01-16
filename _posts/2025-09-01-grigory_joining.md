@@ -10,8 +10,8 @@ author: Pavel Sinitcyn
 {: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
 {% endif %}
 
-We are happy to welcome Grigory Reznikov to our team. His research focuses on developing distributed storage and processing systems, including work on [YTsaurus](https://github.com/ytsaurus).
+We are happy to welcome Grigory Reznikov to our team. His research focuses on developing distributed storage and processing systems, including work on [YTsaurus](https://github.com/ytsaurus){:target="_blank" rel="noopener noreferrer"}.
 
-Grigory will be joining us via [AI Labs](https://www.uu.nl/en/research/ai-labs), with support from [Nebius](https://nebius.com/). In our group, he will work on developing advanced software solutions for mass spectrometry data analysis.
+Grigory will be joining us via [AI Labs](https://www.uu.nl/en/research/ai-labs){:target="_blank" rel="noopener noreferrer"}, with support from [Nebius](https://nebius.com/){:target="_blank" rel="noopener noreferrer"}. In our group, he will work on developing advanced software solutions for mass spectrometry data analysis.
 
 Grigory also has an extensive background in competitive programming and helps train local Utrecht University teams.

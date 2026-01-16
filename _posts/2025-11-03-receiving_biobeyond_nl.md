@@ -13,4 +13,4 @@ BioBeyond_NL brings together partners from Maastricht University, Utrecht Univer
 
 Within this consortium, our group will be responsible for large-scale computational support, including developing and applying advanced machine-learning solutions for mass spectrometry data analysis to help extract reliable biological insight from these complex measurements.
 
-[Read more about the grant on the Utrecht University website](https://www.uu.nl/en/news/beyond-dna-nwo-invests-in-infrastructure-to-study-sugar-modified-proteins-in-cells).
+[Read more about the grant on the Utrecht University website](https://www.uu.nl/en/news/beyond-dna-nwo-invests-in-infrastructure-to-study-sugar-modified-proteins-in-cells){:target="_blank" rel="noopener noreferrer"}.

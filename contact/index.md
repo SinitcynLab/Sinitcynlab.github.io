@@ -13,11 +13,11 @@ permalink: /contact/
 **Visit us**  
 - AI Technology for Life
     - Department: Information and Computing Sciences 
-    - Address: [Princetonplein 5, 3584 CC Utrecht, the Netherlands](https://maps.app.goo.gl/veJXUTBxbpWmRXpU8)
+    - Address: [Princetonplein 5, 3584 CC Utrecht, the Netherlands](https://maps.app.goo.gl/veJXUTBxbpWmRXpU8){:target="_blank" rel="noopener noreferrer"}
     - Room: 4.79
 - Biomolecular Mass Spectrometry and Proteomics
     - Department: Pharmaceutical Sciences
-    - Address: [Padualaan 8, 3584 CH Utrecht, the Netherlands](https://maps.app.goo.gl/e8vVXd7a3ZbiKydR8)
+    - Address: [Padualaan 8, 3584 CH Utrecht, the Netherlands](https://maps.app.goo.gl/e8vVXd7a3ZbiKydR8){:target="_blank" rel="noopener noreferrer"}
     - Room: O605
 
 <!-- **Follow our work**  
