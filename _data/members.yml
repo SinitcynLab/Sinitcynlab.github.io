@@ -18,7 +18,7 @@ leadership:
     uu: https://www.uu.nl/staff/MMohammadi
     photo: majid_mohammadi.low.jpg
     linkedin: https://www.linkedin.com/in/majid-mohammadi-aa17323a/
-    gdpr_consent: false
+    gdpr_consent: true
   - name: Grigory Reznikov
     title: PhD Student, MSc in Theoretical Computer Science
     focus: high performance computing, graph algorithms, docking
@@ -52,7 +52,8 @@ team:
     title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
     time: Feb 2026 -
-    gdpr_consent: false
+    photo: nikolas_montero.low.jpg
+    gdpr_consent: true
   - name: Sofiia Shishkina
     title: Lab Intern, MSc in Computational Biology and Bioinformatics
     focus: Currating various sources of TCR receptor and antibody data.
@@ -64,7 +65,7 @@ alumni:
     focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
     time: Jul 2024 - Dec 2025
     photo: stan_reinders.low.jpg
-    gdpr_consent: false
+    gdpr_consent: true
   - name: Sara Albarran Berlanga (helloR&D)
     title: MSc Student, Artificial Intelligence, Utrecht University
     focus: Organoid viability prediction on bright field images
