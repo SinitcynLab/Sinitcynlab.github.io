@@ -1,6 +1,6 @@
 title: Sinitcyn Lab
 description: Computational Biomolecular Mass Spectrometry and AI research group
-logo: /assets/images/logo/lab_logo.blue_wbkg.ver1.png
+image: /assets/images/logo/lab_logo.blue_wbkg.ver1.png
 url: https://sinitcynlab.github.io
 baseurl: ""
 permalink: /news/:title/
