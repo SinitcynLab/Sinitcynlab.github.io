@@ -1,6 +1,7 @@
 ---
 title: Grigory Joining the Lab
 excerpt: Grigory Reznikov joined as a PhD student.
+thumbnail: /assets/images/photo/grigory_reznikov.low.jpg
 author: Pavel Sinitcyn
 ---
 

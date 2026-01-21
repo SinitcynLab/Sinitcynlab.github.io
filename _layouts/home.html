@@ -71,9 +71,21 @@ layout: default
       {% assign latest_posts = site.posts | slice: 0, 3 %}
       {% for post in latest_posts %}
       <article class="news-card">
-        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-        <p class="meta">{{ post.date | date: '%B %d, %Y' }} • {{ post.author }}</p>
-        <p>{{ post.excerpt }}</p>
+        {% if post.thumbnail %}
+        <div class="news-card-image">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+          </a>
+        </div>
+        {% endif %}
+        <div class="news-card-content">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="meta">
+            {{ post.date | date: '%B %d, %Y' }}<br>
+            {{ post.author }}
+          </p>
+          <p>{{ post.excerpt }}</p>
+        </div>
       </article>
       {% endfor %}
       {% if latest_posts == empty %}

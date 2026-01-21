@@ -1,6 +1,7 @@
 ---
 title: Sinitcyn Lab Launch
 excerpt: We are starting a new lab at Utrecht University as a bridge between two groups - AI Technology for Life and Biomolecular Mass Spectrometry and Proteomics.
+thumbnail: /assets/images/photo/bioms_jun2024.jpg
 author: Pavel Sinitcyn
 ---
 

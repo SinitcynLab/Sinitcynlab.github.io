@@ -1,6 +1,7 @@
 ---
 title: Sinitcyn Lab joins the BioBeyond_NL NWO Roadmap grant
 excerpt: Our lab will contribute large-scale computational support to BioBeyond_NL, applying advanced machine learning to mass spectrometry data for studying sugar-modified proteins in cells.
+thumbnail: /assets/images/photo/biobeyond_nl.png
 author: Pavel Sinitcyn
 ---
 

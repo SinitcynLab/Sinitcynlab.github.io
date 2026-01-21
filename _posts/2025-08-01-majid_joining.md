@@ -1,6 +1,7 @@
 ---
 title: Majid Joining the Lab
 excerpt: Majid Mohammadi joined as a Postdoctoral Researcher.
+thumbnail: /assets/images/photo/majid_mohammadi.low.jpg
 author: Pavel Sinitcyn
 ---
 
