@@ -64,6 +64,7 @@ img {
   font-weight: 700;
   color: var(--brand);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .nav-list {
@@ -180,7 +181,8 @@ img {
   background: transparent;
   border: none;
   position: relative;
-  border-right: 0; /* Clear previous border */
+  border-right: 0;
+  /* Clear previous border */
   padding-right: 2rem;
   overflow: visible;
 }
@@ -189,7 +191,8 @@ img {
 
 .news-card-image {
   width: 100%;
-  padding-top: 100%; /* Square 1:1 Aspect Ratio */
+  padding-top: 100%;
+  /* Square 1:1 Aspect Ratio */
   position: relative;
   margin-bottom: 1rem;
 }
@@ -314,7 +317,7 @@ img {
   margin: 0;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 1100px) {
   .site-header .container {
     padding: 0.85rem 0;
   }
