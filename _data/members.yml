@@ -59,7 +59,8 @@ team:
     title: Lab Intern, MSc in Computational Biology and Bioinformatics
     focus: Currating various sources of TCR receptor and antibody data.
     time: Nov 2025 -
-    gdpr_consent: false
+    photo: sofiia_shishkina.low.jpg
+    gdpr_consent: true
 alumni:
   - name: Stan Reinders
     title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University

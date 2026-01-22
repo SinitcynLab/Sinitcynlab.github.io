@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+![Sinitcyn Lab Publications Photo]({{ '/assets/images/photo/uu_flag2.jpg' | relative_url }})
+{: .page-banner }
+
 We develop open, reproducible methods for computational mass spectrometry.
 
 <h2>Highlighted Publications</h2>
