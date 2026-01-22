@@ -579,3 +579,29 @@ a {
     margin-bottom: 1rem;
   }
 }
+
+/* Contact Page Styling */
+.contact-group {
+  margin-bottom: 2rem;
+}
+
+.contact-group h3 {
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
+.contact-list {
+  border-left: 3px solid var(--accent);
+  padding-left: 1rem;
+  margin-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.contact-list li {
+  margin: 0;
+}
