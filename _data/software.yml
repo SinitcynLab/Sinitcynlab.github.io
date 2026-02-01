@@ -1,4 +1,5 @@
 - name: DecoyGen
+  illustration: decoy_gen.png
   description: "In MS-based proteomics, false discovery rates are typically estimated with target–decoy strategies, but common decoy generators (e.g., reversing or shuffling sequences) often produce unrealistic peptides and distort score distributions, undermining FDR confidence. We use protein language models to generate more realistic decoy peptides by masking and resampling amino acids, and validate them with target–decoy separability tests and MS-based shotgun proteomics data (DDA and DIA)."
   github: https://github.com/SinitcynLab/DecoyGeneration
   tags:

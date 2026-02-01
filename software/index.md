@@ -12,8 +12,15 @@ In mass spectrometry, even the best experiments produce complex data, so "garbag
 <div class="software-list" style="margin-top: 2rem;">
 {% for tool in site.data.software %}
   <div class="software-card" style="margin-bottom: 2rem; padding: 1.5rem; border: 1px solid var(--border); border-radius: 12px; background: #fff; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);">
-    <h3 style="margin-top: 0; margin-bottom: 0.75rem;">{{ tool.name }}</h3>
-    <p style="margin-bottom: 1rem;">{{ tool.description }}</p>
+    <h3 style="margin-top: 0; margin-bottom: 1rem;">{{ tool.name }}</h3>
+    
+    {% if tool.illustration %}
+      <div style="margin: 0 auto 1.5rem; max-width: 600px;">
+        <img src="{{ '/assets/images/photo/' | append: tool.illustration | relative_url }}" alt="{{ tool.name }} illustration" style="width: 100%; height: auto;">
+      </div>
+    {% endif %}
+    
+    <p style="margin-bottom: 1rem; margin-top: 0;">{{ tool.description }}</p>
     
     <div style="margin-bottom: 1rem;">
       {% for tag in tool.tags %}
