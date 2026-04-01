@@ -28,9 +28,14 @@ In mass spectrometry, even the best experiments produce complex data, so "garbag
       {% endfor %}
     </div>
 
-    {% if tool.github %}
-      <a href="{{ tool.github }}" target="_blank" class="cta" style="margin-top: 0; padding: 0.5rem 1.25rem; font-size: 0.9rem;">View on GitHub</a>
-    {% endif %}
+    <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+      {% if tool.github %}
+        <a href="{{ tool.github }}" target="_blank" class="cta" style="margin-top: 0; padding: 0.5rem 1.25rem; font-size: 0.9rem;">Code</a>
+      {% endif %}
+      {% if tool.preprint %}
+        <a href="{{ tool.preprint }}" target="_blank" class="cta" style="margin-top: 0; padding: 0.5rem 1.25rem; font-size: 0.9rem;">Preprint</a>
+      {% endif %}
+    </div>
   </div>
 {% endfor %}
 </div>

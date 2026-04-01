@@ -31,54 +31,59 @@ leadership:
     photo: grigory_reznikov.low.jpg
     gdpr_consent: true
 team:
-  - name: Lizaveta Yurkianets
-    title: MSc Student, Drug Innovation, Utrecht University
-    focus: Building antibody library for middle-down MS proteomics
-    time: Mar 2025 -
-    photo: lizaveta_yurkianets.low.jpg
-    gdpr_consent: true
-  - name: Fabrice Kusters
-    title: BSc Student, Computer Science and Mathematics, Technical University Eindhoven
-    focus: Generative AI for decoy generation in mass spectrometry-based proteomics
-    time: Oct 2025 -
-    photo: fabrice_kusters.low.jpg
-    gdpr_consent: true
-  - name: Alexander Kaplich
-    title: MSc Student, Artificial Intelligence, Utrecht University
-    focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
-    time: Jan 2026 -
-    photo: alexander_kaplich.low.jpg
-    gdpr_consent: true
+  - name: Apostolia Bachsevanoglou Dimitriadou
+    title: MSc Student in Cancer, Stem Cells and Developmental Biology, Utrecht University
+    focus: Itaconate-related Post-translational Modifications
+    time: Apr 2026 -
+    gdpr_consent: false
   - name: Nikolás Hernandez Montero
-    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
     time: Feb 2026 -
     photo: nikolas_montero.low.jpg
     gdpr_consent: true
+  - name: Alexander Kaplich
+    title: MSc Student in Artificial Intelligence, Utrecht University
+    focus: The Third Way - combining graph-based approaches with machine learning for de novo protein sequencing
+    time: Jan 2026 -
+    photo: alexander_kaplich.low.jpg
+    gdpr_consent: true
   - name: Sofiia Shishkina
-    title: Lab Intern, MSc in Computational Biology and Bioinformatics
+    title: Lab Intern in MSc in Computational Biology and Bioinformatics
     focus: Currating various sources of TCR receptor and antibody data.
     time: Nov 2025 -
     photo: sofiia_shishkina.low.jpg
     gdpr_consent: true
+  - name: Lizaveta Yurkianets
+    title: MSc Student in Drug Innovation, Utrecht University
+    focus: Building antibody library for middle-down MS proteomics
+    time: Mar 2025 -
+    photo: lizaveta_yurkianets.low.jpg
+    gdpr_consent: true
 alumni:
+  - name: Fabrice Kusters
+    title: BSc Student in Computer Science and Mathematics, Technical University Eindhoven
+    focus: Generative AI for decoy generation in mass spectrometry-based proteomics
+    time: Oct 2025 - Feb 2026
+    photo: fabrice_kusters.low.jpg
+    gdpr_consent: true
   - name: Stan Reinders
-    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
     time: Jul 2024 - Dec 2025
     photo: stan_reinders.low.jpg
     gdpr_consent: true
   - name: Sara Albarran Berlanga (helloR&D)
-    title: MSc Student, Artificial Intelligence, Utrecht University
+    title: MSc Student in Artificial Intelligence, Utrecht University
     focus: Organoid viability prediction on bright field images
     time: Feb 2025 - Jun 2025
     gdpr_consent: false
   - name: Markel Benito Sendin (Genmab)
-    title: MSc Student, Bioinformatics and Biocomplexity, Utrecht University
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: Enhancing PPI explainability with geometric deep learning
     time: Feb 2025 - Jul 2025
     gdpr_consent: false
   - name: Ellen Frances Shute
-    title: PhD Student, MSc in Molecular Techniques in Life Science
+    title: PhD Student in Molecular Techniques in Life Science
     time: Jun 2024 - Sep 2025
     gdpr_consent: false

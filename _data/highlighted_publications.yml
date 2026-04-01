@@ -1,3 +1,12 @@
+- title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
+  authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
+  venue: "bioRxiv 2026"
+  link: "https://www.biorxiv.org/content/10.64898/2026.03.27.714819"
+  points:
+    - "Introduces protein language model-based decoy generation for peptide identification."
+    - "Benchmarks PLM-based decoys against classical strategies across multiple evaluation layers."
+    - "Shows that reverse decoys remain a strong baseline, while PLM-based decoys are promising tools for diagnostics and future optimization."
+
 - title: "Fast and deep phosphoproteome analysis with the Orbitrap Astral mass spectrometer"
   authors: "N. M. Lancaster, <b>P. Sinitcyn</b>, P. Forny, et al."
   venue: "Nature Communications 2024"
