@@ -35,7 +35,8 @@ team:
     title: MSc Student in Cancer, Stem Cells and Developmental Biology, Utrecht University
     focus: Itaconate-related Post-translational Modifications
     time: Apr 2026 -
-    gdpr_consent: false
+    photo: polina_bachsevanoglou.low.jpg
+    gdpr_consent: true
   - name: Nikolás Hernandez Montero
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
