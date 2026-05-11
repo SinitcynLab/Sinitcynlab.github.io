@@ -10,6 +10,16 @@
     - protein language models
     - decoy generation
 
+- name: QuadraSHAP
+  illustration: quadrashap.png
+  description: "Stable and Scalable Shapley Values for Product Games via Gauss-Legendre Quadrature"
+  github: https://github.com/Majeed7/ProductSemiValues
+  preprint: https://arxiv.org/abs/2605.05870
+  tags:
+    - shapley values
+    - game theory
+    - explainable AI
+
 - name: IgNovo
   description: "A Python-Rust package for de novo protein and peptide sequencing from mass spectrometry data using combination of deep learning and graph-based methods."
   github: https://github.com/gritukan/ignovo
