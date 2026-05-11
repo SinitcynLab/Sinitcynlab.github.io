@@ -1,3 +1,8 @@
+- title: "QuadraSHAP: Stable and Scalable Shapley Values for Product Games via Gauss-Legendre Quadrature"
+  authors: <b>M. Mohammadi</b>, <b>G. Reznikov</b>, <b>P. Sinitcyn</b>, K. Muandet, S. L. Chau"
+  venue: "arXiv 2026"
+  link: "https://arxiv.org/abs/2605.05870"
+
 - title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
   authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
   venue: "bioRxiv 2026"

@@ -31,6 +31,11 @@ leadership:
     photo: grigory_reznikov.low.jpg
     gdpr_consent: true
 team:
+  - name: Felix Céard-Falkenberg
+    title: MSc Student in Computer Science, Utrecht University, Utrecht University
+    focus: TBA
+    time: May 2026 -
+    gdpr_consent: false
   - name: Apostolia Bachsevanoglou Dimitriadou
     title: MSc Student in Cancer, Stem Cells and Developmental Biology, Utrecht University
     focus: Itaconate-related Post-translational Modifications
@@ -55,13 +60,13 @@ team:
     time: Nov 2025 -
     photo: sofiia_shishkina.low.jpg
     gdpr_consent: true
+alumni:
   - name: Lizaveta Yurkianets
     title: MSc Student in Drug Innovation, Utrecht University
     focus: Building antibody library for middle-down MS proteomics
-    time: Mar 2025 -
+    time: Mar 2025 - May 2026
     photo: lizaveta_yurkianets.low.jpg
     gdpr_consent: true
-alumni:
   - name: Fabrice Kusters
     title: BSc Student in Computer Science and Mathematics, Technical University Eindhoven
     focus: Generative AI for decoy generation in mass spectrometry-based proteomics
