@@ -35,6 +35,9 @@ In mass spectrometry, even the best experiments produce complex data, so "garbag
       {% if tool.preprint %}
         <a href="{{ tool.preprint }}" target="_blank" class="cta" style="margin-top: 0; padding: 0.5rem 1.25rem; font-size: 0.9rem;">Preprint</a>
       {% endif %}
+      {% if tool.highlight %}
+        <a href="{{ tool.highlight }}" target="_blank" class="cta" style="margin-top: 0; padding: 0.5rem 1.25rem; font-size: 0.9rem;">Highlight</a>
+      {% endif %}
     </div>
   </div>
 {% endfor %}

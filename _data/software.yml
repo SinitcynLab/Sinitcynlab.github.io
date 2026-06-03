@@ -15,6 +15,7 @@
   description: "Stable and Scalable Shapley Values for Product Games via Gauss-Legendre Quadrature"
   github: https://github.com/Majeed7/ProductSemiValues
   preprint: https://arxiv.org/abs/2605.05870
+  highlight: https://nebius.science/stories/utrecht-shapley
   tags:
     - shapley values
     - game theory

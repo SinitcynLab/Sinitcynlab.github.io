@@ -31,6 +31,11 @@ leadership:
     photo: grigory_reznikov.low.jpg
     gdpr_consent: true
 team:
+  - name: Tiago Gonçalves Maia Prazeres
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University, Utrecht University
+    focus: A review of deconvolution methods for top-down proteomics
+    time: June 2026 -
+    gdpr_consent: false
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
     focus: TBA
