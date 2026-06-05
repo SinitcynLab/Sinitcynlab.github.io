@@ -35,7 +35,8 @@ team:
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University, Utrecht University
     focus: A review of deconvolution methods for top-down proteomics
     time: June 2026 -
-    gdpr_consent: false
+    photo: tiago_prazeres.low.jpg
+    gdpr_consent: true
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
     focus: TBA
