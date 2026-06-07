@@ -82,3 +82,29 @@ permalink: /members/
 {% endfor %}
 </div>
 </details>
+
+<details class="alumni-details">
+<summary class="alumni-summary">
+  <h2>Industry Interns</h2>
+  <span class="alumni-arrow"></span>
+</summary>
+<div class="alumni-content" style="margin-top: 1.5rem;">
+{% for person in site.data.members.industry_interns %}
+<div class="member-card" style="display: flex; gap: 1.5rem; margin-bottom: 2rem; align-items: flex-start;">
+  <div class="member-photo" style="flex-shrink: 0;">
+    {% if person.photo and person.gdpr_consent %}
+      <img src="{{ '/assets/images/photo/' | append: person.photo | relative_url }}" alt="{{ person.name }}" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; background-color: #f1f5f9;">
+    {% else %}
+      <img src="{{ '/assets/images/logo/member-placeholder.svg' | relative_url }}" alt="{{ person.name }}" style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; background-color: #f1f5f9;">
+    {% endif %}
+  </div>
+  <div class="member-details">
+    <h3 style="margin-top: 0; margin-bottom: 0.5rem;">{{ person.name }}</h3>
+    <p style="margin: 0; font-style: italic; color: #64748b;">{{ person.title }}</p>
+    <p style="margin-top: 0.5rem;">{{ person.focus }}</p>
+    {% if person.time %}<p style="margin: 0.25rem 0 0; color: #64748b; font-size: 0.9em;">{{ person.time }}</p>{% endif %}
+  </div>
+</div>
+{% endfor %}
+</div>
+</details>
