@@ -5,8 +5,35 @@ permalink: /members/
 ---
 
 
-![Sinitcyn Lab Team Photo]({{ '/assets/images/photo/members.jpg' | relative_url }})
-{: style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;" }
+<div id="team-carousel" style="position: relative; width: 100%; margin-bottom: 2rem; overflow: hidden; border-radius: 8px;">
+  <div class="carousel-track" style="display: flex; transition: transform 0.8s ease-in-out;">
+    <img src="{{ '/assets/images/photo/members_dec2025.jpg' | relative_url }}" alt="Sinitcyn Lab Team Photo" style="width: 100%; flex-shrink: 0; height: auto; display: block;">
+    <img src="{{ '/assets/images/photo/members_may2026.jpg' | relative_url }}" alt="Sinitcyn Lab Team Photo May 2026" style="width: 100%; flex-shrink: 0; height: auto; display: block;">
+  </div>
+  <div style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); display: flex; gap: 8px;">
+    <span class="carousel-dot" data-index="0" style="width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.9); cursor: pointer; display: inline-block;"></span>
+    <span class="carousel-dot" data-index="1" style="width: 10px; height: 10px; border-radius: 50%; background: rgba(255,255,255,0.4); cursor: pointer; display: inline-block;"></span>
+  </div>
+</div>
+<script>
+(function() {
+  var current = 0;
+  var total = 2;
+  var track = document.querySelector('#team-carousel .carousel-track');
+  var dots = document.querySelectorAll('#team-carousel .carousel-dot');
+  function goTo(index) {
+    current = index;
+    track.style.transform = 'translateX(-' + (current * 100) + '%)';
+    dots.forEach(function(d, i) {
+      d.style.background = i === current ? 'rgba(255,255,255,0.9)' : 'rgba(255,255,255,0.4)';
+    });
+  }
+  dots.forEach(function(d) {
+    d.addEventListener('click', function() { goTo(parseInt(this.dataset.index)); });
+  });
+  setInterval(function() { goTo((current + 1) % total); }, 5000);
+})();
+</script>
 
 ## Leadership
 {% for person in site.data.members.leadership %}
