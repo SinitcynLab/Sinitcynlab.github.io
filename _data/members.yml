@@ -9,17 +9,6 @@ leadership:
     linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
     photo: pavel_sinitcyn.low.jpg
     gdpr_consent: true
-  - name: Majid Mohammadi
-    title: Senior Scientist, Postdoctoral Researcher, PhD
-    focus: machine learning, shapley values, explainability in AI
-    email: m.mohammadi1@uu.nl
-    orcid: https://orcid.org/0000-0002-7131-8724
-    gscholar: https://scholar.google.com/citations?user=7oVmQIYAAAAJ
-    uu: https://www.uu.nl/staff/MMohammadi
-    photo: majid_mohammadi.low.jpg
-    linkedin: https://www.linkedin.com/in/majid-mohammadi-aa17323a/
-    website: https://majeed7.github.io/
-    gdpr_consent: true
   - name: Grigory Reznikov
     title: PhD Student, MSc in Theoretical Computer Science
     focus: high performance computing, graph algorithms, docking
@@ -31,12 +20,6 @@ leadership:
     photo: grigory_reznikov.low.jpg
     gdpr_consent: true
 team:
-  - name: Tiago Gonçalves Maia Prazeres
-    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University, Utrecht University
-    focus: A review of deconvolution methods for top-down proteomics
-    time: June 2026 -
-    photo: tiago_prazeres.low.jpg
-    gdpr_consent: true
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
     focus: TBA
@@ -60,13 +43,25 @@ team:
     time: Jan 2026 -
     photo: alexander_kaplich.low.jpg
     gdpr_consent: true
+alumni:
+  - name: Majid Mohammadi
+    title: Senior Scientist, Postdoctoral Researcher, PhD
+    focus: Machine learning, Shapley values, Explainability in AI
+    time: Aug 2025 - Jul 2026
+    photo: majid_mohammadi.low.jpg
+    gdpr_consent: true
+  - name: Tiago Gonçalves Maia Prazeres
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University, Utrecht University
+    focus: A review of deconvolution methods for top-down proteomics
+    time: Jun 2026 - Jul 2026
+    photo: tiago_prazeres.low.jpg
+    gdpr_consent: true
   - name: Sofiia Shishkina
     title: Lab Intern in MSc in Computational Biology and Bioinformatics
     focus: Currating various sources of TCR receptor and antibody data.
-    time: Nov 2025 -
+    time: Nov 2025 - Jun 2026
     photo: sofiia_shishkina.low.jpg
     gdpr_consent: true
-alumni:
   - name: Lizaveta Yurkianets
     title: MSc Student in Drug Innovation, Utrecht University
     focus: Building antibody library for middle-down MS proteomics
@@ -83,18 +78,12 @@ alumni:
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: SpectraBERT - a BERT-like model for complete peptide spectra prediction
     time: Jul 2024 - Dec 2025
-    photo: stan_reinders.low.jpg
     gdpr_consent: true
   - name: Ellen Frances Shute
     title: PhD Student in Molecular Techniques in Life Science
     time: Jun 2024 - Sep 2025
     gdpr_consent: false
 industry_interns:
-  - name: Gulce Çelik (Pacmed)
-    title: MSc Student in Artificial Intelligence, Utrecht University
-    focus: TBA
-    time: Apr 2026 -
-    gdpr_consent: false
   - name: Marc B. Borkhuis (The Hyve)
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: TBA
@@ -102,8 +91,8 @@ industry_interns:
     gdpr_consent: false
   - name: Irene Gonzalez Ortega Villena (TNO)
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
-    focus: TBA
-    time: Feb 2026 -
+    focus: Machine Learning optimization strategies for inverse design of sustainable polymers
+    time: Feb 2026 - Jul 2026
     gdpr_consent: false
   - name: Sara Albarran Berlanga (helloR&D)
     title: MSc Student in Artificial Intelligence, Utrecht University
