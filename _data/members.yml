@@ -4,9 +4,10 @@ leadership:
     focus: shotgun proteomics, computational proteomics, phosphoproteomics
     email: p.sinitcyn@uu.nl
     orcid: https://orcid.org/0000-0002-2653-1702
+    github: https://github.com/pgsin
     gscholar: https://scholar.google.com/citations?user=Qqu7Z4QAAAAJ
     uu: https://www.uu.nl/staff/PSinitcyn
-    linkedin: https://www.linkedin.com/in/pavel-sinitcyn/
+    linkedin: https://www.linkedin.com/in/atgtac/
     photo: pavel_sinitcyn.low.jpg
     gdpr_consent: true
   - name: Grigory Reznikov
@@ -14,11 +15,23 @@ leadership:
     focus: high performance computing, graph algorithms, docking
     email: g.reznikov@uu.nl
     orcid: https://orcid.org/0000-0003-2959-2831
+    github: https://github.com/gritukan
+    gscholar: https://scholar.google.com/citations?user=CUPVvRUAAAAJ
     cphof: https://cphof.org/profile/topcoder:grikukan
     uu: https://www.uu.nl/staff/GReznikov
     linkedin: https://www.linkedin.com/in/grikukan/
     photo: grigory_reznikov.low.jpg
     gdpr_consent: true
+  - name: Douwe Schulte
+    title: Postdoctoral Researcher
+    focus: antibody sequencing, de-novo sequencing, computational proteomics
+    email: d.schulte@uu.nl
+    orcid: https://orcid.org/0000-0003-0594-0993
+    github: https://github.com/douweschulte
+    uu: https://research-portal.uu.nl/en/persons/douwe-schulte/
+    linkedin: https://www.linkedin.com/in/douweschulte/
+    photo: douwe_schulte.low.jpg
+    gdpr_consent: false
 team:
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
