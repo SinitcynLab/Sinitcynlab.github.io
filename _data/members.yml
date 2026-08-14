@@ -31,7 +31,7 @@ leadership:
     uu: https://research-portal.uu.nl/en/persons/douwe-schulte/
     linkedin: https://www.linkedin.com/in/douweschulte/
     photo: douwe_schulte.low.jpg
-    gdpr_consent: false
+    gdpr_consent: true
 team:
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
