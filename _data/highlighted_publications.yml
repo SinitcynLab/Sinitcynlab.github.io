@@ -1,7 +1,7 @@
 - title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
   authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
-  venue: "bioRxiv 2026"
-  link: "https://www.biorxiv.org/content/10.64898/2026.03.27.714819"
+  venue: "Journal of Proteome Research 2026"
+  link: "https://doi.org/10.1021/acs.jproteome.6c00302"
   points:
     - "Introduces protein language model-based decoy generation for peptide identification."
     - "Benchmarks PLM-based decoys against classical strategies across multiple evaluation layers."
