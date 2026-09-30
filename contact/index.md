@@ -20,7 +20,7 @@ permalink: /contact/
   <ul class="contact-list">
     <li>Department of Information and Computing Sciences</li>
     <li><a href="https://maps.app.goo.gl/veJXUTBxbpWmRXpU8" target="_blank" rel="noopener noreferrer">Princetonplein 5, 3584 CC Utrecht, the Netherlands</a></li>
-    <li>Room 4.79</li>
+    <li>Room 4.85</li>
   </ul>
 </div>
 

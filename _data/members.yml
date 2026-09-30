@@ -33,6 +33,11 @@ leadership:
     photo: douwe_schulte.low.jpg
     gdpr_consent: true
 team:
+  - name: Georgi Pachnikov
+    title: BSc Student in College of Pharmaceutical Sciences, Utrecht University, Utrecht University
+    focus: (Honour Project) TBA
+    time: Sep 2026 -
+    gdpr_consent: false
   - name: Felix Céard-Falkenberg
     title: MSc Student in Computer Science, Utrecht University, Utrecht University
     focus: TBA
