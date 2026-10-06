@@ -1,3 +1,13 @@
+- title: "Disentangling maternal pregnancy and fetal-specific plasma signatures through integrated proteomics and site-specific N-glycoproteomics"
+  authors: "S. Jager, S. Kalaidopoulou Nteak, <b>G. Reznikov</b>, F. Rodrigues Ianiski, R. Visser, <b>P. Sinitcyn</b>, G. Vidarsson, A.J.R. Heck"
+  venue: "bioRxiv 2026"
+  link: "https://doi.org/10.64898/2026.10.05.756652"
+
+- title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
+  authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
+  venue: "Journal of Proteome Research 2026"
+  link: "https://doi.org/10.1021/acs.jproteome.6c00302"
+
 - title: "Rapid Peptide Mapping of Monoclonal Antibodies with Direct Infusion Mass Spectrometry"
   authors: "A.Z. Salome, M. Morgenstern, A. S. Hebert, C. D. Wenger,  <b>P. Sinitcyn</b>, B. J. Anderson, J. S. Chlystek, L. R. Serrano, K. L. Mertz, I. J. Miller, E. Miller-Galow, M. P. Godamudunage, M. Batt, B. R. Patel, G. Lee, L. M. Smith, S. T. Quarmby, A. M. George Thompson, J. Ahn, H. P. Gunawardena, J. J. Coon"
   venue: "bioRxiv 2026"
@@ -8,12 +18,7 @@
   venue: "arXiv 2026"
   link: "https://arxiv.org/abs/2605.05870"
 
-- title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
-  authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
-  venue: "Journal of Proteome Research 2026"
-  link: "https://doi.org/10.1021/acs.jproteome.6c00302"
-
-- title: "AI‐driven antibody design from an antigen sequence"
+- title: "AI-driven antibody design from an antigen sequence"
   authors: "<b>P. Sinitcyn</b>, A.J.R. Heck"
   venue: "Vita 2026"
   link: "https://doi.org/10.15302/vita.2025.12.0004"
