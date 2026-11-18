@@ -3,6 +3,11 @@
   venue: "bioRxiv 2026"
   link: "https://doi.org/10.64898/2026.10.05.756652"
 
+- title: "Community-driven advances in computational mass spectrometry: The perspective of EuBIC-MS members"
+  authors: "D. Winkelhardt, J.P. Schessner, S. Berres, A. Nameni, A. Soleymaniniya, A. Schröder, C. Jachmann, <b>D. Schulte</b>, G. Wallmann, H. Webel, J. Rainer, K. Nastou, L. Gatto, M. Palmblad, M. Weber, O. Shouman, <b>P. Sinitcyn</b>, R. Gabriels, R. Devreese, T. van Den Bossche, T. Claeys, W. Bittremieux, J. Uszkoreit"
+  venue: "Journal of Proteomics 2026"
+  link: "https://doi.org/10.1016/j.jprot.2026.105708"
+
 - title: "Protein Language Model Decoys for Target Decoy Competition in Proteomics: Quality Assessment and Benchmarks"
   authors: "<b>G. Reznikov</b>, <b>F. Kusters</b>, <b>M. Mohammadi</b>, H. W. P. van den Toorn, <b>P. Sinitcyn</b>"
   venue: "Journal of Proteome Research 2026"

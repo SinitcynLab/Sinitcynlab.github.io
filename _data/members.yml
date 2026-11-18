@@ -33,22 +33,27 @@ leadership:
     photo: douwe_schulte.low.jpg
     gdpr_consent: true
 team:
-  - name: Georgi Pachnikov
-    title: BSc Student in College of Pharmaceutical Sciences, Utrecht University, Utrecht University
-    focus: (Honour Project) TBA
-    time: Sep 2026 -
-    gdpr_consent: false
-  - name: Felix Céard-Falkenberg
-    title: MSc Student in Computer Science, Utrecht University, Utrecht University
-    focus: TBA
-    time: May 2026 -
-    gdpr_consent: false
   - name: Apostolia Bachsevanoglou Dimitriadou
     title: MSc Student in Cancer, Stem Cells and Developmental Biology, Utrecht University
     focus: Itaconate-related Post-translational Modifications
     time: Apr 2026 -
     photo: polina_bachsevanoglou.low.jpg
     gdpr_consent: true
+  - name: Bas de Blok
+    title: MSc Student in Artificial Intelligence, Utrecht University
+    focus: The Similarity Games - Exploring Spectral Distance Metrics in Mass-Spectrometry
+    time: Nov 2026 -
+    gdpr_consent: false
+  - name: Felix Céard-Falkenberg
+    title: MSc Student in Computer Science, Utrecht University, Utrecht University
+    focus: TBA
+    time: May 2026 -
+    gdpr_consent: false
+  - name: Kalle Fruitema
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
+    focus: Rescoring Deep Proteome Sequencing - From More Peptides to Alternative Splicing Coverage
+    time: Nov 2026 -
+    gdpr_consent: false
   - name: Nikolás Hernandez Montero
     title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
     focus: Mining shotgun proteomics data for antibody gold
@@ -61,6 +66,21 @@ team:
     time: Jan 2026 -
     photo: alexander_kaplich.low.jpg
     gdpr_consent: true
+  - name: Odysseas Lydakis Simantiris
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
+    focus: The Sweet Spot - Improving Glycopeptide Identification with ML-based Spectrum Prediction
+    time: Nov 2026 -
+    gdpr_consent: false
+  - name: Georgi Pachnikov
+    title: BSc Student in College of Pharmaceutical Sciences, Utrecht University, Utrecht University
+    focus: (Honour Project) TBA
+    time: Sep 2026 -
+    gdpr_consent: false    
+  - name: Andrej Vuchkovikj
+    title: MSc Student in Bioinformatics and Biocomplexity, Utrecht University
+    focus: Auto Candy Crusher - Robotic Automation of Tablet Testing
+    time: Nov 2026 -
+    gdpr_consent: false
 alumni:
   - name: Majid Mohammadi
     title: Senior Scientist, Postdoctoral Researcher, PhD
